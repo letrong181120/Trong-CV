@@ -324,34 +324,34 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .photoshop {
-  	width: 60%;
+  	width: 30%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.UIUX {
+  	width: 30%;
+  	-moz-animation: UI/UX 2s ease;
+  	-webkit-animation: UI/UX 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.C {
+  	width: 20%;
+  	-moz-animation: C 2s ease;
+  	-webkit-animation: C 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 40%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 50%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.GIT {
+  	width: 30%;
+  	-moz-animation: GIT 2s ease;
+  	-webkit-animation: GIT 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -1001,4 +1001,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
-
